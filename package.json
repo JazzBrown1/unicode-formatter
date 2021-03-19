@@ -1,0 +1,21 @@
+{
+  "name": "unicode",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "author": "Jazz Brown",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "rollup": "^2.42.0",
+    "rollup-plugin-babel": "^4.4.0",
+    "rollup-plugin-cleanup": "^3.2.1",
+    "eslint": "^7.22.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
