@@ -42,6 +42,6 @@ squared: 🄰🄱🄲 (Caps Only)
 ## Usage
 ~~~javascript
 const text = 'Hello World!';
-const style = 'scriptBold'
+const style = 'script'
 const formatted = format(text, style) // ℋℯ𝓁𝓁ℴ 𝒲ℴ𝓇𝓁𝒹!
 ~~~
