@@ -1,4 +1,4 @@
-# unicode-formatter
+# 𝖀𝕹𝕴𝕮𝕺𝕯𝕰 𝑓𝑜𝑟𝑚𝑎𝑡𝑡𝑒𝑟
 
 Format your text with Unicode characters.
 
