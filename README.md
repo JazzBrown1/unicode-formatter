@@ -41,8 +41,7 @@ squared: 🄰🄱🄲 (Caps Only)
 
 ## Usage
 ~~~javascript
-const text = 'Hello World';
+const text = 'Hello World!';
 const style = 'scriptBold'
-const formatted = format(text, style)
-console.log(formatted) // 
+const formatted = format(text, style) // ℋℯ𝓁𝓁ℴ 𝒲ℴ𝓇𝓁𝒹!
 ~~~
