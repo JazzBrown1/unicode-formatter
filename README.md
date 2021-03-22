@@ -2,7 +2,7 @@
 
 Format your text with Unicode characters.
 
-Unicode-formatted converts your text into the different styles supported in the unicode character set.
+Unicode-formatter converts your text into the different styles supported in the unicode character set.
 
 normal:abc
 
@@ -30,7 +30,7 @@ frakturBold: 𝖆𝖇𝖈
 
 monospace: 𝚊𝚋𝚌
 
-doublestruck: 𝕒𝕓𝕔�
+doublestruck: 𝕒𝕓𝕔
 
 circled: ⓐⓑⓒ
 
